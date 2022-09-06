@@ -1,4 +1,4 @@
-# flutter_admin_dashboard
+# Flutter Web Admin Dashboard
 
 A new Flutter project.
 
